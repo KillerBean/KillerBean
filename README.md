@@ -1,4 +1,7 @@
-### Olá, eu sou o Luis Fernando 👋
+### 👩🏻‍💻 Luis Fernando
+
+Me chamo Luis Fernando Roseno da Silva, tenho 29 anos e sou natural do Osasco-SP. Sou formado em Defesa Cibernética pela Estácio. 
+
 
 <div align="center">
   <a href="https://github.com/KillerBean">
@@ -23,7 +26,7 @@
 
 <div>
   <a href = "mailto:nando.roseno@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luis-fernando-roseno-da-silva-5b466711a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luisfernandoroseno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/KillerBean/KillerBean/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/KillerBean/KillerBean/blob/output/github-contribution-grid-snake-dark.svg)

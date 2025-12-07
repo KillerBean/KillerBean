@@ -5,8 +5,13 @@ Me chamo Luis Fernando Roseno da Silva, tenho 29 anos e sou natural do Osasco-SP
 
 <div align="center">
   <a href="https://github.com/KillerBean">
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=KillerBean&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KillerBean&layout=compact&langs_count=7&theme=tokyonight"/>
+  <!-- <img height="180em" width="42%" src="https://streak-stats.demolab.com/?user=KillerBean&theme=darcula"/> -->
+  <!-- <img height="180em" width="42%" src="https://streak-stats.demolab.com/?user=KillerBean&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" /> -->
+  <img height="180em" width="50%" src="https://streak-stats.demolab.com/?user=KillerBean&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+  <img height="180em" width="42%" src="https://github-readme-stats-fast.vercel.app/api?username=KillerBean&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
+  <br />
+  <img height="250em" width="40%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KillerBean&layout=donut&langs_count=7&theme=tokyonight&hide_border=true"/>
+    
 </div>
 
 <div style="display: inline_block"><br>
